@@ -20,6 +20,7 @@ database.yml
 doc/
 *.swp
 *~
+.sass-cache
 .project
 .DS_Store
 .idea
